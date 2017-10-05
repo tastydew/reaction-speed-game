@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StartButton.cs">
+    <Files>
+      <File FileName="Assets\ButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\UploadScore.cs" Line="5" Column="43" />
+      <File FileName="Assets\FieldController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\GetTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\StartButton.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\teyssedou_f\Documents\reaction-speed-test\ReactionSpeedGame\reactionSpeed\Assets\Movement.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6dc94083ad5096a48972ca4c8a92ef27
+timeCreated: 1481579303
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: lazer84
+  fontNames:
+  - lazer84
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
